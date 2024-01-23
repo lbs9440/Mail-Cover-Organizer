@@ -1,4 +1,4 @@
-Mail Cover Organizer (Personal Project for a client)
+**Mail Cover Organizer (Personal Project for a client)**
 
 Program made for storing collections of mail covers, specifically ones involving the severe
 impacts of external factors, such as weather disturbance, military conflicts, unusual events,
